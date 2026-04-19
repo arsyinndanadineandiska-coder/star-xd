@@ -5,12 +5,12 @@
   "repository": "https://github.com/XdKing2/star-xd",
   "stack": "container",
   "env": {
-    "SESSION_ID": {
+    "SESSION_ID": starcore-eyJub2lzZUtleSi6eyJwcml2YXRlIjp 7InR5cGUIOIJCdWZmZXIiLCJkYXRhijoiSVBj Y01HUDhnMFZqK2lvb3laVIBFRUIWWW.JpL 3NCdGxFTktSUEVid3NGbz0lfSwichVibGlji jp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoiaD VPa3JFNLLGRzRVd2lUZIpXZzZNL05ucHFG TKY1WU85RUV2a0RzbE54Yz0ifX0sinBha XJpbmdFcGhlbWVyYWxLZXlQYWlyljp7InB yaXZhdGUIOnsidHlwZSI6IkJ1ZmZlcilsimR hdGEIOllyRG5zOWt4ekRHMDNxUmQxa0x WaFdpeVZXL1NpSkR6UEgxdE9EMkITeW4 WPSJ9LCJwdWJsaWMiOnsidHlwZSI6IkJ1Z mZicilsimRhdGEIOIJJOUltem9yNUxnYlkyZ nZ3VW5PQJQ2TG16UEcxdUJJK1BBTGpUU HdWS1lwPS.J9fSwic2lnbmVkSWRlbnRpdH ILZXkiOnsicHJpdmF0ZSI6eyJ0eXBlIjoiQnVm ZmVyliwiZGF0YS161LFGNGJaSzFOZEOvNktoO UVQZDdma0g0QU1GL3EwQ1U1eFh5eExjbm trVik9in0sInB1YmxpYyl6eyJ0eXBlIjoiQnVmZ mVyllwiZGF0YSI6IkZ6ZlRnc3cwWENkYkwzW XRLdzhmbmFnck9GTHIGbE4weGxRb2R3LOZ uemM9in19LCJzaWduZWRQcmVLZXkiOns...
       "description": "Your session ID (get it by running the bot locally first)",
       "required": true,
       "value": ""
     },
-    "OWNER_NUMBER": {
+    "OWNER_NUMBER": 62882-1246-8844
       "description": "Your WhatsApp number with country code (e.g. 263701234567)",
       "required": true,
       "value": "263000000000"
